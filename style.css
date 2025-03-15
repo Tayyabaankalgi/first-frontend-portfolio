@@ -60,7 +60,7 @@ p{
     justify-content: center;
     align-items: center; /* Aligns items at the top */
     gap: 40px; /* Adds space between image and text */
-    padding-left: 200px;
+    padding-left: 100px;
     max-width: 100%;
 }
 .skill img {
