@@ -55,7 +55,7 @@ p{
     font-size: 3rem;
     padding-top: 70px;
 }
-.skill {
+.skill-container {
     display: flex;
     justify-content: center;
     align-items: center; /* Aligns items at the top */
