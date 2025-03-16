@@ -51,6 +51,7 @@ p{
     color: #16423C;
 }
 .head{
+    color: #16423C;
     font-family: "Tilt Neon", sans-serif;
     font-size: 3rem;
     padding-top: 70px;
@@ -120,5 +121,9 @@ h2{
     text-align: center;
 }
 .footer-link{
+    color: #16423C;
+}
+h3{
+    font-family: "Tilt Neon", sans-serif;
     color: #16423C;
 }
